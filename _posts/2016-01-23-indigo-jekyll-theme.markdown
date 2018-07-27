@@ -11,7 +11,6 @@ description: This is a simple and minimalist template for Jekyll for those who l
   to eat noodles.
 category: project
 author: johndoe
-New field 3: true
 ---
 
 ![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)

@@ -1,6 +1,6 @@
 # main text of home
 name: Tarik Korkmaz
-bio: Computer Engineering Student
+bio: Engineer & Developer
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,13 +8,13 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/tarik_korkmaz.jpg
+picture: assets/images/mezuniyet.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://drive.google.com/drive/folders/14r-iAFuQVIrISZct89ip71xVhDcjLSjT?usp=sharing
 
 url: https://tarik-korkmaz.github.io
 # your url: http://USERNAME.github.io
@@ -55,9 +55,9 @@ email: tarikkorkmaz15@gmail.com
 authors:
     tarik-korkmaz:
         name: Tarik Korkmaz
-        bio: Computer Engineering Student and Software Developer
+        bio: Engineer & Developer
         external-image: false
-        picture: assets/images/tarik_korkmaz.jpg
+        picture: assets/images/mezuniyet.jpg
         twitter: tarikkorkmaz15
 
 # do you want a larger site? change the option below
@@ -74,7 +74,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+# blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
