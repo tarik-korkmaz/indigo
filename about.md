@@ -11,7 +11,7 @@ hidden: true
 Hi! I am Tarık.
 <br>
 
-Thanks for checking out my personal website. I have recently graduated from Koc University Computer Engineering and Industrial Engineering programs. I will be a M.Sc. in Informatics student at Technical University of Munich starting from Winter 18/19 semester.
+Thanks for checking out my personal website. I am currently a M.S. in Computer Science student at Technical University of Munich. I graduated from Koç University Computer Engineering and Industrial Engineering programs in June 2018. 
 <br>
 
 I am interested in wide range of areas including mobile programming, distributed systems, blockchains, AI. Please shoot me an <a href="mailto:tarikkorkmaz15@gmail.com" target="_top">e-mail</a> or contact me on [LinkedIn][2] if you want to learn more about me, discuss some ideas & opportunities. 
