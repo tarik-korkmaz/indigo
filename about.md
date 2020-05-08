@@ -8,6 +8,8 @@ hidden: true
 
 <h1>About me</h1>
 
+<!--
+
 Hi! I am Tarık.
 <br>
 
@@ -19,6 +21,8 @@ I am interested in wide range of areas including mobile programming, distributed
 
 [1]: tarikkorkmaz15@gmail.com
 [2]: https://www.linkedin.com/in/tarik-korkmaz/
+
+-->
 
 <!-- skills and projects
  
